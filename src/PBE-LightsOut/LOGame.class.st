@@ -16,7 +16,7 @@ LOGame >> cellsPerSide [
 
 { #category : #initialization }
 LOGame >> initialize [ 
-	"test comment"
+	"test comment 2"
 	| sampleCell width height n |
 	super initialize.
 	n := self cellsPerSide.
